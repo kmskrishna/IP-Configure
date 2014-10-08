@@ -1,0 +1,9 @@
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\bin\Debug\IP configurer.exe.config
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\bin\Debug\IP configurer.exe
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\bin\Debug\IP configurer.pdb
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\obj\Debug\IP_configurer.Form1.resources
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\obj\Debug\IP_configurer.Properties.Resources.resources
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\obj\Debug\IP configurer.csproj.GenerateResource.Cache
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\obj\Debug\IP configurer.exe
+c:\users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\obj\Debug\IP configurer.pdb
+C:\Users\sai\documents\visual studio 2013\Projects\IP configurer\IP configurer\obj\Debug\IP configurer.csprojResolveAssemblyReference.cache
